@@ -1,11 +1,11 @@
-# Hi there, I'm [Altan] 👋
+# Hi there, I'm Altan 👋
 
 ### 🚀 About Me
 I am a Computer Science Student with a diverse background in **Game Development** and **Full-Stack Web Applications**. I enjoy bridging the gap between complex backend logic and interactive user experiences.
 
-- 🔭 I’m currently working on **[Flirt Assistan]**
-- 🌱 I’m currently diving deeper into **[Specific area, e.g., Cloud Computing or Advanced Unity Patterns]**
-- ⚡ Fun fact: I enjoy [Chest, Swimming, Road Trips]
+- 🔭 I’m currently working on **Flirt Assistan**
+- 🌱 I’m currently diving deeper into **Unity Game Development, Web Applications and Mobile App Designs for IOS/Android**
+- ⚡ Fun fact: I enjoy **Chest, Swimming, Road Trips**
 
 ---
 
@@ -21,17 +21,12 @@ I am a Computer Science Student with a diverse background in **Game Development*
 ---
 
 ### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=altanozy&show_icons=true&theme=tokyonight" alt="Altan's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altanozy&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
 </p>
 
 ---
 
 ### 📫 Connect with me
 [LinkedIn](https://www.linkedin.com/in/altan-o%C4%9Fuz-3032ab28a/) | [Email](mailto:altan33oguz@gmail.com)
-
----
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</p>
