@@ -3,7 +3,7 @@
 ### 🚀 About Me
 I am a Computer Science Student with a diverse background in **Game Development** and **Full-Stack Web Applications**. I enjoy bridging the gap between complex backend logic and interactive user experiences.
 
-- 🔭 I’m currently working on **Flirt Assistan**
+- 🔭 I’m currently developing **Flirt Assistan**
 - 🌱 I’m currently diving deeper into **Unity Game Development, Web Applications and Mobile App Designs for IOS/Android**
 - ⚡ Fun fact: I enjoy **Chest, Swimming, Road Trips**
 
@@ -22,8 +22,8 @@ I am a Computer Science Student with a diverse background in **Game Development*
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=altanozy&show_icons=true&theme=tokyonight" alt="Altan's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altanozy&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=altanozy&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="Altan's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altanozy&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" height="170" />
 </p>
 
 ---
